@@ -1,10 +1,12 @@
 # Sven Co-op Enhanced music pack
 for Sven Co-op 5.0+ modified by Garompa, as of 14/09/2024
 
+![musicpack](https://github.com/GarompaEstomper/Sven_Musical_Remixes/blob/main/musicpack.jpg)
+
 ## Links
 
-[Discord]()
-[GoogleDrive]()
+- [Discord](https://discord.com/channels/170051548284583937/1308562116948656228)
+- [GoogleDrive](https://drive.google.com/file/d/1OqeS91lZmrZjOpsOGqk1fe2i6oLt0BCC/view?usp=sharing)
 
 
 ## Description
