@@ -3,7 +3,8 @@ for Sven Co-op 5.0+ modified by Garompa, as of 14/09/2024
 
 ## Links
 
-[GoogleDrive](https://drive.google.com/file/d/1KADgSvjjHHQiBg-Tpfxg9s-xMYO4ZpnQ/view?usp=sharing)
+[Discord]()
+[GoogleDrive]()
 
 
 ## Description
