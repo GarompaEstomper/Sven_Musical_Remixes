@@ -5,6 +5,8 @@ for Sven Co-op 5.0+ modified by Garompa, as of 14/09/2024
 
 ## Links
 
+IMPORTANT: Due to Github not allowing files bigger than 25mb, this pack can only be hosted on external links
+
 - [Discord](https://discord.com/channels/170051548284583937/1308562116948656228)
 - [GoogleDrive](https://drive.google.com/file/d/1OqeS91lZmrZjOpsOGqk1fe2i6oLt0BCC/view?usp=sharing)
 
